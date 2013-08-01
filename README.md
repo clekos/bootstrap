@@ -124,7 +124,7 @@ For more information on SemVer, please visit [http://semver.org/](http://semver.
 
 **Mark Otto**
 
-+ [http://twitter.com/mdo](http://twitter.com/mdo)
++ clement
 + [http://github.com/mdo](http://github.com/mdo)
 
 **Jacob Thornton**
